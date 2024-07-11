@@ -10,10 +10,10 @@
 
 ## Jobs
 
-* [Bus Driver Job](jobs/bus-driver-job.md)
-* [Taxi Driver Job](jobs/taxi-driver-job.md)
-* [Tow Truck Job](jobs/tow-job.md)
-* [Pizza Delivery Job](jobs/pizza-delivery-job.md)
-* [Garabge Job](jobs/garbage-job.md)
+* [Bus Driver Job](job/bus-driver-job.md)
+* [Taxi Driver Job](job/taxi-driver-job.md)
+* [Tow Truck Job](job/tow-job.md)
+* [Pizza Delivery Job](job/pizza-delivery-job.md)
+* [Garabge Job](job/garbage-job.md)
 
 ## Crime
