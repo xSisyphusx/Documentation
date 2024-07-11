@@ -7,3 +7,6 @@
 ## Jobs
 
 * [Bus Driver Job](jobs/bus-driver-job.md)
+* [Taxi Driver Job](jobs/taxi-driver-job.md)
+
+## Crime
