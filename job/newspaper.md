@@ -13,4 +13,7 @@
 
 > Please be detailed with your reports. There's nothing worse than having a reporter that is lazy, or grammatically incorrect. Make sure to take pride in your articles. 
 
-<figure><img src="" alt=""><figcaption><p>Newspaper</p></figcaption></figure>
+> Below you'll find an image that shows what the article writing page looks like within the newspaper.
+> **NOTE:** All images must use Fivemerr as an image host. You can find the link here.
+
+<figure><img src="https://files.fivemerr.com/images/df517521-187f-41d2-a0c7-95c278e78625.png" alt=""><figcaption><p>Newspaper</p></figcaption></figure>
