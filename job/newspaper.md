@@ -12,3 +12,5 @@
 - Write an new report
 
 > Please be detailed with your reports. There's nothing worse than having a reporter that is lazy, or grammatically incorrect. Make sure to take pride in your articles. 
+
+<figure><img src="" alt=""><figcaption><p>Newspaper</p></figcaption></figure>
