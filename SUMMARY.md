@@ -15,6 +15,6 @@
 * [Taxi Driver Job](job/taxi-driver-job.md)
 * [Tow Truck Job](job/tow-job.md)
 * [Pizza Delivery Job](job/pizza-delivery-job.md)
-* [Garabge Job](job/garbage-job.md)
+* [Garbage Job](job/garbage-job.md)
 
 ## Crime
