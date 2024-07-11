@@ -16,5 +16,6 @@
 * [Tow Truck Job](job/tow-job.md)
 * [Pizza Delivery Job](job/pizza-delivery-job.md)
 * [Garbage Job](job/garbage-job.md)
+* [News Reporter and Newspaper](job/newspaper.md)
 
 ## Crime
