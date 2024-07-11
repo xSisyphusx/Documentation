@@ -6,6 +6,7 @@
 
 ## Navigation
 
+* [Inventory](navigation/inventory.md)
 * [Radial Menu](navigation/radial-menu.md)
 * [Multi Job Menu](navigation/multi-job.md)
 
