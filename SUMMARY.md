@@ -27,6 +27,10 @@
 * [Skydiving](activities/skydiving.md)
 * [Ghost Hunting](activities/ghost-hunting.md)
 
+## Police
+
+* [Police Job](police/police.md)
+
 ## Crime
 
 * [Submarine Heist](crime/subheist.md)
