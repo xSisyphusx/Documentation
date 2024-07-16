@@ -2,7 +2,7 @@
 
 ## Redux Roleplay
 
-* [Welcome to Redux!](README.md)
+* [Welcome to Redux!](README.md) 
 
 ## Navigation
 
