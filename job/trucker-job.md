@@ -14,4 +14,4 @@
 
 ## Pay Schedule 
 
-- Payouts for each pickup and drop off is a random amount roughly about 23 to 30 dollars per route to accept. 
+- The Trucker Job pays $300 per hour. The job also will sometimes give you items in the glove box, so be sure to check while you are driving!
