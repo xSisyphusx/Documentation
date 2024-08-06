@@ -16,4 +16,6 @@
 - Each Zone has Unique Wait Timers
 - Level Based Fishing
 - Better Poles Reduce Wait Time for Fish
+- Better Poles Have Reduced Break Chances
+- Higher Level Zones Are Available
 - Boat Rentals
