@@ -24,6 +24,7 @@
 
 ## Activities
 
+* [Fishing](activities/fishing.md)
 * [Skydiving](activities/skydiving.md)
 * [Ghost Hunting](activities/ghost-hunting.md)
 
