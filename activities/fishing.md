@@ -9,4 +9,11 @@
 - Or visit the boat rental ped on the beach to get a boat to head out to the fishing spots in the deeper water
 - Sell your fish at SeaTrade Corp. near 8005 when you're done.
 
-> You can fish anywhere you like, it doesn't need to be in the fishing zones in the ocean. Each Fishing zone will offer different kinds of fish, though. 
+## Features
+
+- Fish Anywhere or Specific Fishing Zone
+- Unique Fish in Each Zone
+- Each Zone has Unique Wait Timers
+- Level Based Fishing
+- Better Poles Reduce Wait Time for Fish
+- Boat Rentals
