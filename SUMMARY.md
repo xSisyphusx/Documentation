@@ -2,7 +2,7 @@
 
 ## Redux Roleplay
 
-* [Welcome to Redux!](README.md) 
+* [Welcome to Redux!](README.md)
 
 ## Navigation
 
@@ -24,6 +24,7 @@
 
 ## Activities
 
+* [Racing](activities/racing.md)
 * [Fishing](activities/fishing.md)
 * [Skydiving](activities/skydiving.md)
 * [Ghost Hunting](activities/ghost-hunting.md)
@@ -40,13 +41,12 @@
 
 * [Submarine Heist](crime/subheist.md)
 * [Drugs](crime/drugs/README.md)
-    * [Cocaine](crime/drugs/cocaine.md)
-    * [Crack](crime/drugs/crack.md)
-    * [Ecstasy](crime/drugs/ecstasy.md)
-    * [Heroin](crime/drugs/heroin.md)
-    * [Lean](crime/drugs/lean.md)
-    * [LSD](crime/drugs/lsd.md)
-    * [Mescaline](crime/drugs/mescaline.md)
-    * [Shrooms](crime/drugs/shrooms.md)
-    * [Weed](crime/drugs/weed.md)
-    
+  * [Cocaine](crime/drugs/cocaine.md)
+  * [Crack](crime/drugs/crack.md)
+  * [Ecstasy](crime/drugs/ecstasy.md)
+  * [Heroin](crime/drugs/heroin.md)
+  * [Lean](crime/drugs/lean.md)
+  * [LSD](crime/drugs/lsd.md)
+  * [Mescaline](crime/drugs/mescaline.md)
+  * [Shrooms](crime/drugs/shrooms.md)
+  * [Weed](crime/drugs/weed.md)
