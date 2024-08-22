@@ -6,7 +6,7 @@ description: Below you will find a list of information about the racing system i
 
 ### Becoming a Crew Leader
 
-To become a Racing Crew Leader, you must have at least 3 people total ready to join your crew, and then open a General Ticket in our Discord to request you be given the tools to run your crew. You will need to keep your crew active, otherwise they will be removed. Crew leaders will be the only people able to hand out racing tablets.&#x20;
+To become a Racing Crew Leader, you must have at least 3 people total (Max Crew Size is 5) ready to join your crew, and then open a General Ticket in our Discord to request you be given the tools to run your crew. You will need to keep your crew active, otherwise they will be removed. Crew leaders will be the only people able to hand out racing tablets.&#x20;
 
 {% hint style="danger" %}
 When opening a ticket about becoming a crew leader, make sure that you are detailed in your ticket. You should know the name of your crew, who your members will be, what kind of cars you'll be racing, etc.&#x20;
