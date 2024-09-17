@@ -15,3 +15,13 @@ Once you have completed these steps please allow the staff time to approve your 
 {% hint style="warning" %}
 PLEASE NOTE: If you do not fly into the city for 14 days you will need to reapply for your Allow List.
 {% endhint %}
+
+## Server Restart Times (MST+)
+
+> * 07:00 (PST) => 10:00 (EST)
+> * 15:00 (PST) => 18:00 (EST)
+> * 23:00 (PST) => 02:00 (EST)
+
+{% hint style="success" %} 
+These times will increase and decrease with daylight savings time. 
+{% endhint %}
