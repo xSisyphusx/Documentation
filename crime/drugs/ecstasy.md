@@ -1,11 +1,15 @@
 # Ecstasy
-- step 1 steal mdp2p and isosfrole
-- step 2 make raw xtc
-- step 3 buy a pill press
-- step 4 set it down
-- step 5 press into white pills
-- step 6 stamp pills
 
-- optionals
-- upgrade press with X amount of each color
-- to make new colors look at the recipe when you go to press pills
+> As with all of the drugs in the city, we will not tell you where to find them, or how to use them. However, here is a very brief overview on the steps.
+
+
+- Step #1 Steal mdp2p and isosfrole
+- Step #2 Make raw xtc
+- Step #3 Buy a pill press
+- Step #4 Set it down
+- Step #5 Press into white pills
+- Step #6 Stamp pills
+
+## Optional
+- Upgrade press with X amount of each color
+- To make new colors look at the recipe when you go to press pills
