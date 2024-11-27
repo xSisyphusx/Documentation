@@ -9,7 +9,7 @@
 > * Once prompted click "Request Allowlist"
 
 {% hint style="success" %}
-Once you have completed these steps please allow the staff time to approve your request. They are typically pretty quick about this, but please allow sufficient time prior to attempting to tag them in Discord. Once your Allow List has been accepted you will be able to fly in to the server freely.
+Once you have completed these steps please allow the staff time to approve your request. They are typically pretty quick about this, but please allow sufficient time prior to attempting to tag them in Discord. Once your Allow List has been accepted you will be notified in the Allowlist Channel in Discord, and able to fly in to the server freely afterwards.
 {% endhint %}
 
 {% hint style="warning" %}

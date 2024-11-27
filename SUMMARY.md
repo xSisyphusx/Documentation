@@ -6,7 +6,7 @@
 
 ## Navigation
 
-
+* [HUD Options](navigation/hud.md)
 
 ## Jobs
 
