@@ -1,4 +1,4 @@
-# Welcome to Redux!
+# Welcome to Redux 2.5!
 
 ## Documentation
 
