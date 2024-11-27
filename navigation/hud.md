@@ -1,3 +1,3 @@
 # HUD Options
 
-{% embed url="https://r2.fivemanage.com/image/BLCA5xmC9BNx.png" %}
+<figure><img src="../.gitbook/assets/BLCA5xmC9BNx.png" alt=""><figcaption></figcaption></figure>
