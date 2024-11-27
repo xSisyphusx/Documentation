@@ -8,21 +8,4 @@
 
 * [HUD Options](navigation/hud.md)
 
-## Jobs
-
-
-
-## Activities
-
-
-## Restaurants
-
-
-
-## Police
-
-
-
 ## Crime
-
-
