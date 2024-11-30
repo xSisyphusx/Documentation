@@ -22,9 +22,7 @@ PLEASE NOTE: If you do not fly into the city for 14 days you will need to reappl
 
 ## Server Restart Times (MST+)
 
-> * 07:00 (PST) => 10:00 (EST)
-> * 15:00 (PST) => 18:00 (EST)
-> * 23:00 (PST) => 02:00 (EST)
+** TBA ** 
 
 {% hint style="success" %} 
 These times will increase and decrease with daylight savings time. 
