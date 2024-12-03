@@ -27,7 +27,3 @@ PLEASE NOTE: If you do not fly into the city for 14 days you will need to reappl
 {% hint style="success" %} 
 These times will increase and decrease with daylight savings time. 
 {% endhint %}
-
-<!--TODO #15 @TheoGeeLove Please add something below this line-->
-Theo Gee The bears Actually do suck
-Caleb Williams will be better the JF1
