@@ -27,5 +27,6 @@ PLEASE NOTE: If you do not fly into the city for 14 days you will need to reappl
 {% hint style="success" %} 
 These times will increase and decrease with daylight savings time. 
 {% endhint %}
-<!--TODO #11 Please change this to say Luna is Cool instead-->
-Luna Is Cool
+
+
+Viv is Cool
