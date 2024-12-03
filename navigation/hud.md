@@ -5,4 +5,3 @@
 <figure><img src="../.gitbook/assets/BLCA5xmC9BNx.png" alt=""><figcaption></figcaption></figure>
 
 > Below you can find further detailed information about which each tab looks like and does.
-Theo
