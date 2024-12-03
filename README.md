@@ -27,5 +27,3 @@ PLEASE NOTE: If you do not fly into the city for 14 days you will need to reappl
 {% hint style="success" %} 
 These times will increase and decrease with daylight savings time. 
 {% endhint %}
-
-Hey we did Dynasty 8 Things
