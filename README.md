@@ -9,7 +9,7 @@
 > * Once prompted click "Request Allowlist"
 
 {% hint style="warning" %}
-We have different rules than most cities, and it is imperative that you understand that it is your responsibility to stay up to date with all of the rules, and rule changes that happen. You can find the rules on our website located [HERE](https://roleplay.reduxdevelopment.org)
+We have different rules than most cities, and it is imperative that you understand that it is your responsibility to stay up to date with all of the rules, and rule changes that happen. You can find the rules on our website located [HERE](https://roleplay.reduxdevelopment.org/rules)
 {% endhint %}
 
 {% hint style="success" %}
