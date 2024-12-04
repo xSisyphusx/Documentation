@@ -12,3 +12,7 @@
 
 * [ATM Robbery](crime/atmrobbery.md)
 * [Store Robberies](crime/storerobbery.md)
+
+## Civilian 
+
+* [Restaurant Guide](civ/restaurant.md)
