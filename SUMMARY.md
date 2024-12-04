@@ -16,3 +16,4 @@
 ## Civilian 
 
 * [Restaurant Guide](civ/restaurant.md)
+* [Group Job Guide](civ/groupjob.md)
