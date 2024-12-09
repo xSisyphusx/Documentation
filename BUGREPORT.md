@@ -10,11 +10,13 @@
 Provide a clear and concise description of the bug.
 
 **Steps to Reproduce:**
-1.
-2.
-3.
-4.
-5.
+| Step | Description |
+|------|-------------|
+| 1    |             |
+| 2    |             |
+| 3    |             |
+| 4    |             |
+| 5    |             |
 
 **Expected Behavior:**
 Describe what you expected to happen.
