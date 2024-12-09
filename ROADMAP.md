@@ -45,8 +45,8 @@ This section outlines the development roadmap and tracks the progress of various
 |-----------------|---------------|-----------------|
 | Feature A (S1)  | Completed     | 12/08/2024      |
 | Feature B (S1)  | Completed     | 12/08/2024      |
-| Feature C (S1)  | In Progress   | -               |
-| Feature D (S1)  | In Progress   | -               |
+| Feature C (S1)  | Completed     | 12/09/2024      |
+| Feature D (S1)  | Completed     | 12/09/2024      |
 | Feature E (S1)  | In Progress   | -               |
 | Feature F (S2)  | Not Started   | -               |
 | Feature G (S2)  | Not Started   | -               |
