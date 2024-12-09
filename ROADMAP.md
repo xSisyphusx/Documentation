@@ -26,19 +26,19 @@ This section outlines the development roadmap and tracks the progress of various
 - **Feature O**: 2.5.0 Launch (Feedback Loop begins here)
 
 ### [S4] 
-- **Feature P**: 
-- **Feature Q**: 
-- **Feature R**: 
-- **Feature S**: 
-- **Feature T**: 
+- **Feature P**: TBA
+- **Feature Q**: TBA
+- **Feature R**: TBA
+- **Feature S**: TBA
+- **Feature T**: TBA
 
 ### [S5]
-- **Feature U**:
-- **Feature V**:
-- **Feature W**:
-- **Feature X**:
-- **Feature Y**: 
-- **Feature Z**: 
+- **Feature U**: TBA
+- **Feature V**: TBA
+- **Feature W**: TBA
+- **Feature X**: TBA
+- **Feature Y**: TBA
+- **Feature Z**: TBA
 
 ## Progress Tracking
 | Milestone       | Status        | Completion Date |
