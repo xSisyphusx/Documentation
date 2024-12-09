@@ -12,18 +12,18 @@ This section outlines the development roadmap and tracks the progress of various
 - **Feature D**: Increase Security Measures across the server making for a safer connection to the server.
 - **Feature E**: Optimize all MLO polygons and YTDs to meet current Redux Development Standards
 ### [S2]
-- **Feature F**: 
-- **Feature G**: 
-- **Feature H**: 
-- **Feature I**: 
-- **Feature J**: 
+- **Feature F**: Introduce large-scale crafting system for players.
+- **Feature G**: Modify player owned businesses to accept crafted items.
+- **Feature H**: Modify and implement all robberies to city.
+- **Feature I**: Introduce new clothing menu 
+- **Feature J**: Introduce new housing system for better optimizations and control
 
 ### [S3]
-- **Feature K**: 
-- **Feature L**: 
-- **Feature M**:
-- **Feature N**:
-- **Feature O**:
+- **Feature K**: Ensure SQL Stability upon player transfers.
+- **Feature L**: Ensure Items and Vehicles are transfered properly.
+- **Feature M**: Move Clothing Packs and ensure all clothing is functional.
+- **Feature N**: Move Vehicles and ensure all vehicles are added to lua codebase.
+- **Feature O**: 2.5.0 Launch (Feedback Loop begins here)
 
 ### [S4] 
 - **Feature P**: 
