@@ -5,6 +5,7 @@
 * [Welcome to Redux!](README.md)
 * [2.5 Development Roadmap](ROADMAP.md)
 * [Bug Report Template](BUGREPORT.md)
+* [Suggestion Template](SUGGESTIONS.md)
 ## Navigation
 
 * [HUD Options](navigation/hud.md)
