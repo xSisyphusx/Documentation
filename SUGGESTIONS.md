@@ -15,12 +15,12 @@ Please copy and paste this into the Suggestions Channel in Discord!
 
 \## Type of Change
 Please select the type of change you are requesting:
-- [ ] Script Change
-- [ ] Economy Change
-- [ ] Addition
-- [ ] Subtraction
-- [ ] Change in Roleplay Experience
-- [ ] Other (Please specify): 
+ [ ] Script Change
+ [ ] Economy Change
+ [ ] Addition
+ [ ] Subtraction
+ [ ] Change in Roleplay Experience
+ [ ] Other (Please specify): 
 
 \## Detailed Description
 Please provide a detailed description of the change you are requesting:
