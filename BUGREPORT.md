@@ -1,4 +1,9 @@
 # Bug Reporting Template
+
+{% hint style="warning" %}
+ Please make sure that while filling out a bug report, that you are clear, concise, and thorough. Any reports that are not, will be immediately dismissed, and asked to be redone.
+{% endhint %}
+
 ## Bug Report
 
 **Description:**
