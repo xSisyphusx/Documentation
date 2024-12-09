@@ -3,6 +3,7 @@
 ## Redux Roleplay
 
 * [Welcome to Redux!](README.md)
+* [2.5 Development Roadmap](ROADMAP.md)
 
 ## Navigation
 
