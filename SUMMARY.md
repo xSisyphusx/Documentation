@@ -6,6 +6,8 @@
 * [2.5 Development Roadmap](ROADMAP.md)
 * [Bug Report Template](BUGREPORT.md)
 * [Suggestion Template](SUGGESTIONS.md)
+* [Rules](Rules.md)
+
 ## Navigation
 
 * [HUD Options](navigation/hud.md)
