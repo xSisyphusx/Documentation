@@ -1,4 +1,8 @@
-# Welcome to Redux 2.5!
+---
+icon: hand-wave
+---
+
+# Welcome to Redux!
 
 ## Documentation
 
@@ -22,8 +26,8 @@ PLEASE NOTE: If you do not fly into the city for 14 days you will need to reappl
 
 ## Server Restart Times (MST+)
 
-** TBA ** 
+\*\* TBA \*\*
 
-{% hint style="success" %} 
-These times will increase and decrease with daylight savings time. 
+{% hint style="success" %}
+These times will increase and decrease with daylight savings time.
 {% endhint %}
