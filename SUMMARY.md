@@ -11,9 +11,9 @@
 * [HUD Options](navigation/hud.md)
 
 ## Crime
-* <i class="fas fa-exclamation-triangle"></i> [Criminal Activities Overview](crime/overview.md)
-  * <i class="fas fa-piggy-bank"></i> [ATM Robbery](crime/atmrobbery.md)
-  * <i class="fas fa-store"></i> [Store Robberies](crime/storerobbery.md)
+* [Criminal Activities Overview](crime/overview.md)
+  * [ATM Robbery](crime/atmrobbery.md)
+  * [Store Robberies](crime/storerobbery.md)
 
 
 ## Civilian 
