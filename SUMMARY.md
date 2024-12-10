@@ -11,9 +11,9 @@
 * [HUD Options](navigation/hud.md)
 
 ## Crime
-
-* [ATM Robbery](crime/atmrobbery.md)
-* [Store Robberies](crime/storerobbery.md)
+* [Criminal Activities Overview](crime/overview.md)
+  * [ATM Robbery](crime/atmrobbery.md)
+  * [Store Robberies](crime/storerobbery.md)
 
 ## Civilian 
 
