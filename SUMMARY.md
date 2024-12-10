@@ -1,14 +1,13 @@
 # Table of contents
 
 ## Redux Roleplay
-
 * [Welcome to Redux!](README.md)
 * [2.5 Development Roadmap](ROADMAP.md)
 * [Bug Report Template](BUGREPORT.md)
 * [Suggestion Template](SUGGESTIONS.md)
 ## Navigation
-
-* [HUD Options](navigation/hud.md)
+* [Features Overview](features/overview.md)
+* [HUD Options](features/hud.md)
 
 ## Crime
 * [Criminal Activities Overview](crime/overview.md)
@@ -17,6 +16,6 @@
 
 
 ## Civilian 
-
-* [Restaurant Guide](civ/restaurant.md)
-* [Group Job Guide](civ/groupjob.md)
+* [Civillian Life Overview](civ/overview.md)
+  * [Restaurant Guide](civ/restaurant.md)
+  * [Group Job Guide](civ/groupjob.md)
