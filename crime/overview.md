@@ -1,5 +1,5 @@
 ---
-icon: arrow-down-to-square
+icon: people-robbery
 ---
 
 # Criminal Activities Overview
