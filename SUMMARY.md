@@ -4,6 +4,7 @@
 * [Welcome to Redux!](README.md)
 * [Rules](RULES.md)
 * [2.5 Development Roadmap](ROADMAP.md)
+* [Development Notes](DEVNOTES.md)
 * [Bug Report Template](BUGREPORT.md)
 * [Suggestion Template](SUGGESTIONS.md)
 
