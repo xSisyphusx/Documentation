@@ -1,6 +1,18 @@
 # Development Notes
 
 ## Daily Updates
+# 12/20/2024
+**Notation:** Missed the last couple of days of updating this, as I don't think that anyone is really reading this shit anyways but here's one for today.
+- **Date:** 12/20/2024
+- **Summary of Progress:**
+  > [S2] Feature F is still under way. Many of the items have been created and I have begun working on other pieces of the feature. Primarily I have written a mining script that allows for players to being crafting items utilizing metals. This at the time is limited to Iron, Copper, and Gold. I have also developed an Auction House script that will allow players to buy and sell their materials. In this way all items inherent values will be determined by the necessity of them in other crafting recipes, and their level at the crafting tables. This will make easy to obtain items worth less, and difficult to craft items worth more. 
+
+  > As of the moment of typing this, only the Mining Script is fully functional. 
+- **Challenges:**
+  > No Challenges were noted during this coding session.
+- **Next Steps:**
+  > Next steps will be to continue creating the crafting tables, and making sure that the auction house script is functional. That will be the primary goal moving forward. 
+
 # 12/15/2024
 **Notation:** I will be writing more moving forward based on the Testing team's feedback in future updates. 
 
