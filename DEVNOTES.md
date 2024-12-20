@@ -15,7 +15,8 @@ icon: square-code
 - **Challenges:**
   > No Challenges were noted during this coding session.
 - **Next Steps:**
-  > Next steps will be to continue creating the crafting tables, and making sure that the auction house script is functional. That will be the primary goal moving forward. 
+  > Next steps will be to continue creating the crafting tables, and making sure that the auction house script is functional. That will be the primary goal moving forward. If you've read all of this open a ticket in the main Redux Roleplay Server and let the staff know you found the bounty for $1000 IC cash in the Dev Notes. 
+
 
 # 12/15/2024
 **Notation:** I will be writing more moving forward based on the Testing team's feedback in future updates. 
