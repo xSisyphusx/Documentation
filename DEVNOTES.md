@@ -15,7 +15,7 @@ icon: square-code
 - **Challenges:**
   > No Challenges were noted during this coding session.
 - **Next Steps:**
-  > Next steps will be to continue creating the crafting tables, and making sure that the auction house script is functional. That will be the primary goal moving forward. If you've read all of this open a ticket in the main Redux Roleplay Server and let the staff know you found the bounty for $1000 IC cash in the Dev Notes. (Expires on 12/21/2024)
+  > Next steps will be to continue creating the crafting tables, and making sure that the auction house script is functional. That will be the primary goal moving forward. If you've read all of this open a ticket in the main Redux Roleplay Server and let the staff know you found the bounty for $1000 IC cash in the Dev Notes. If you are caught telling anyone about this, your entire bank account and cash will be drained. This is only for people that read the updates. (Expires on 12/21/2024)
 
 
 # 12/15/2024
