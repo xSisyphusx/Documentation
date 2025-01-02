@@ -4,10 +4,6 @@
 
 * [Welcome to Redux!](README.md)
 * [Rules](redux-roleplay/rules.md)
-* [2.5 Development Roadmap](ROADMAP.md)
-* [Development Notes](DEVNOTES.md)
-* [Bug Report Template](BUGREPORT.md)
-* [Suggestion Template](SUGGESTIONS.md)
 
 ## Navigation
 
@@ -26,3 +22,9 @@
   * [Restaurant Guide](civ/restaurant.md)
   * [Group Job Guide](civ/groupjob.md)
   * [Mining](civ/mining.md)
+
+## Development 
+* [2.5 Development Roadmap](ROADMAP.md)
+* [Development Notes](DEVNOTES.md)
+* [Bug Report Template](BUGREPORT.md)
+* [Suggestion Template](SUGGESTIONS.md)
