@@ -1,5 +1,5 @@
 ---
-icon: pickaxe
+icon: hand-wave
 ---
 
 # Welcome to Redux!
