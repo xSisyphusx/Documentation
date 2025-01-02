@@ -25,4 +25,4 @@
 * [Civillian Life Overview](civ/overview.md)
   * [Restaurant Guide](civ/restaurant.md)
   * [Group Job Guide](civ/groupjob.md)
-  * [Mining]()
+  * [Mining](civ/mining.md)
