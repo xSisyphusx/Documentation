@@ -63,12 +63,12 @@ This section outlines the development roadmap and tracks the progress of various
 | Feature F (S2) | In Progress | -               |
 | Feature G (S2) | Not Started | -               |
 | Feature H (S2) | Not Started | -               |
-| Feature I (S2) | Not Started | -               |
-| Feature J (S2) | Not Started | -               |
-| Feature K (S3) | Not Started | -               |
-| Feature L (S3) | Not Started | -               |
-| Feature M (S3) | Not Started | -               |
-| Feature N (S3) | Not Started | -               |
+| Feature I (S2) | Completed   | 1/1/2024        |
+| Feature J (S2) | Completed   | 1/1/2024        |
+| Feature K (S3) | Completed   | 1/1/2024        |
+| Feature L (S3) | Completed   | 1/1/2024        |
+| Feature M (S3) | Completed   | 1/1/2024        |
+| Feature N (S3) | Completed   | 1/1/2024        |
 | Feature O (S3) | Not Started | -               |
 | Feature P (S4) | Not Started | -               |
 | Feature Q (S4) | Not Started | -               |
