@@ -31,3 +31,7 @@ PLEASE NOTE: If you do not fly into the city for 14 days you will need to reappl
 {% hint style="success" %}
 These times will increase and decrease with daylight savings time.
 {% endhint %}
+
+{% hint style="danger" %}
+All Characters are subject to deletion after 30 days of inactivity. Simply signing into the character to attempt to subvert deletion will also result in deletion after 30 days. All characters must be active members of the community to remain held in the database.
+{% endhint %}
